@@ -1,5 +1,7 @@
 # The return of Crazy Data - Amazon Forest Fires
-Presentation delivered in FOSS4G 2019 in 2019-10-30, room Simfonia at 14h00.
+Presentation delivered in [FOSS4G 2019](https://2019.foss4g.org/) in 2019-10-30, room Simfonia at 14h00.
+
+FOSS4G stands for Free and Open Source Software for Geospatial.
 
 This work is [licenced CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/), the code is under the MIT license.
 
