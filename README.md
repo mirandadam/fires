@@ -48,13 +48,15 @@ The area of the Amazon forest can be defined in at least three ways:
 
 The Amazon definition we use is the third one, as it is an objectively defined region, loosely agrees with the biome data from Brazil and spans all the countries that contain the Amazon forest. Also I had no other option since it would take time to source the data for the other two definitions. 
 
+![](graphics/amazon_area_definitions.png)
+
 Data: The basin of the amazon river
 
 Sources:
 
-Main polygon: http://www.ore-hybam.org/index.php/eng/Data/Cartography/Amazon-basin-hydrography
+* Main polygon: http://www.ore-hybam.org/index.php/eng/Data/Cartography/Amazon-basin-hydrography
 
-Sanity check: WFS service from IBGE at "http://www.geoservicos.ibge.gov.br/geoserver/ows?service=wfs&version=2.0.0&request=GetCapabilities", Layer "CGEO:ANMS2010_03_biomas"
+* Sanity check: WFS service from IBGE at "http://www.geoservicos.ibge.gov.br/geoserver/ows?service=wfs&version=2.0.0&request=GetCapabilities", Layer "CGEO:ANMS2010_03_biomas"
 
 ### How are burn rates measured?
 
