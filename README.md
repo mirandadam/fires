@@ -64,6 +64,13 @@ NASA has FIRMS - the Fire Information for Resource Management System, which prov
 
 Data:  NASA’s Fire Information for Resource Management System (FIRMS) reports.
 
+QGis screenshot of the MODIS data from September 27 to August 27, scale 1:10 million. Acre region - Amazon, South America:
+![](graphics/raw%20august%20modis%20fire%20spots%201to10million%20amazon.png)
+
+QGis screenshot of the MODIS data from September 27 to August 27, scale 1:10 million (same as above). Acre region - Amazon, South America:
+Congo, Angola and Zambia region - Central Africa:
+![](graphics/raw%20august%20modis%20fire%20spots%201to10million%20africa.png)
+
 Source: https://firms2.modaps.eosdis.nasa.gov/
 
 Some caveats (non-exhaustive):
