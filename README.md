@@ -1,12 +1,16 @@
 # The return of Crazy Data - Amazon Forest Fires
 Presentation delivered in FOSS4G 2019 in 2019-10-30, room Simfonia at 14h00.
 
+This work is [licenced CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/), the code is under the MIT license.
+
 ## Introduction
 Five years ago, in the FOSS4G Portland conference, I gave a presentation entitled “Crazy Data”, and the focus was on tips and tricks to ingest, clean and process large amounts of vector data. This repository documents a “crazy data” exercise: downloading and processing data regarding the fires in the amazon forest up to August 27, 2019.
 
 Many of the FOSS4G Bucharest participants have asked about the news of fires in the amazon forest. There are many questions and many different analyses to be made. For the purposes of this demonstration, the following question is proposed: “Is the amazon forest being burned in large rates?”
 
 Since this issue is in the news and has a lot of controversy around it, it should be made clear that this work does not concern politics, ecology or relations of cause and effect, it merely demonstrates the execution of a geoprocessing task using FOSS4G tools and data that is difficult to handle to try to answer the proposed question. This is a complex subject and I believe one should ask questions focused on the decisions one has to make. What are you trying to decide? What questions you need answered to help you in your decision? Maybe this work will provide you with a workflow and a few tools to do your own research.
+
+The whole process should be repeatable by anyone patient enough to go through the hacky code in this repository. If you have anything to add or fix, please submit a pull request.
 
 ## Motivation
 
