@@ -154,24 +154,61 @@ Indexes size: 13 GB
 
 ## Results
 
-![](graphics/p_MODIS Amazon fires by country.png)
+All graphics are displayed with two curves - the top one is the absolute number of fire spots and the bottom one is that number divided by 1000 square kilometers. 
 
-![](graphics/p_VIIRS Amazon fires by country.png)
+The top curve is limited to the 10 items with the most fire spots.
 
+The bottom curve gives an idea of the density of the fire spots in the area, and uses the same itens as the top curve but orders them by greater density first.
 
-![](graphics/p_MODIS Amazon fires by country until Aug 27 of each year.png)
+### Fires in the Amazon region
+These give a false impression that 2019 had less fire spots.
 
-![](graphics/p_VIIRS Amazon fires by country until Aug 27 of each year.png)
+The area used to calculate fire spot density is only the area that interesects the Amazon basin.
 
+![](graphics/p_MODIS%20Amazon%20fires%20by%20country.png)
 
-![](graphics/p_MODIS Amazon fires by state until Aug 27 of each year.png)
+![](graphics/p_VIIRS%20Amazon%20fires%20by%20country.png)
 
-![](graphics/p_VIIRS Amazon fires by state until Aug 27 of each year.png)
+### Fires in the Amazon region only until August 27 of each year
 
+Why? Because 2019 is not over yet and it is fire season now, so we have to disregard data after August 27 to be able to compare one year with the other.
 
-![](graphics/p_MODIS Amazon fires by municipality until Aug 27 of each year.png)
+The area used to calculate fire spot density is only the area that interesects the Amazon basin.
 
-![](graphics/p_VIIRS Amazon fires by municipality until Aug 27 of each year.png)
+![](graphics/p_MODIS%20Amazon%20fires%20by%20country%20until%20Aug%2027%20of%20each%20year.png)
 
+![](graphics/p_VIIRS%20Amazon%20fires%20by%20country%20until%20Aug%2027%20of%20each%20year.png)
 
-![](graphics/p_MODIS fires by country.png)
+### Brazilian Amazon fires by state
+
+The area used to calculate fire spot density is only the area that interesects the Amazon basin.
+
+Modis series dating from 2001
+
+![](graphics/p_MODIS%20Amazon%20fires%20by%20state%20until%20Aug%2027%20of%20each%20year.png)
+
+VIIRS series dating from 2012
+
+![](graphics/p_VIIRS%20Amazon%20fires%20by%20state%20until%20Aug%2027%20of%20each%20year.png)
+
+### Brazilian Amazon fires by municipality
+
+The area used to calculate fire spot density is only the area that interesects the Amazon basin.
+
+Modis series dating from 2001
+
+![](graphics/p_MODIS%20Amazon%20fires%20by%20municipality%20until%20Aug%2027%20of%20each%20year.png)
+
+VIIRS series dating from 2012
+
+![](graphics/p_VIIRS%20Amazon%20fires%20by%20municipality%20until%20Aug%2027%20of%20each%20year.png)
+
+### Fires in all the countries of the world
+
+The area used to calculate fire spot density is the entire area of the countries and all fire spots are considered. It would be better to use just the forest polygons for each country, but since I don't have that, we use the entire area and all the fire spots to make an estimate.
+
+MODIS series since 2016
+
+![](graphics/p_MODIS%20fires%20by%20country.png)
+
+Why no VIIRS? My machine ran for 3 hours then crashed when trying to process those.
