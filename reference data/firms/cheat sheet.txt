@@ -1,0 +1,4 @@
+#find . -name '*.zip' -exec sha256sum '{}' ';' > sha256sums.txt
+sha256sum -c sha256sums.txt
+ls -g -G *.zip > file_sizes.txt
+wget -c -i ../scripts/0_fire_data_links.txt

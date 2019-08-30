@@ -1,0 +1,11 @@
+\copy (SELECT * FROM outputs.amazon_area_by_country) to 'results/amazon_area_by_country.csv' with csv header
+\copy (SELECT * FROM outputs.area_by_country) to 'results/area_by_country.csv' with csv header
+\copy (SELECT * FROM outputs.modis_amazon_fires_by_country) to 'results/modis_amazon_fires_by_country.csv' with csv header
+\copy (SELECT * FROM outputs.modis_amazon_fires_by_country_until_aug_27) to 'results/modis_amazon_fires_by_country_until_aug_27.csv' with csv header
+\copy (SELECT * FROM outputs.modis_amazon_fires_by_municipality_until_aug_27) to 'results/modis_amazon_fires_by_municipality_until_aug_27.csv' with csv header
+\copy (SELECT * FROM outputs.modis_amazon_fires_by_state_until_aug_27) to 'results/modis_amazon_fires_by_state_until_aug_27.csv' with csv header
+\copy (SELECT * FROM outputs.modis_fires_by_country) to 'results/modis_fires_by_country.csv' with csv header
+\copy (SELECT * FROM outputs.viirs_amazon_fires_by_country) to 'results/viirs_amazon_fires_by_country.csv' with csv header
+\copy (SELECT * FROM outputs.viirs_amazon_fires_by_country_until_aug_27) to 'results/viirs_amazon_fires_by_country_until_aug_27.csv' with csv header
+\copy (SELECT * FROM outputs.viirs_amazon_fires_by_municipality_until_aug_27) to 'results/viirs_amazon_fires_by_municipality_until_aug_27.csv' with csv header
+\copy (SELECT * FROM outputs.viirs_amazon_fires_by_state_until_aug_27) to 'results/viirs_amazon_fires_by_state_until_aug_27.csv' with csv header

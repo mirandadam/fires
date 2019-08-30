@@ -1,0 +1,12 @@
+https://firms2.modaps.eosdis.nasa.gov/data/download/DL_FIRE_M6_4545.zip
+https://firms2.modaps.eosdis.nasa.gov/data/download/DL_FIRE_V1_4546.zip
+https://firms2.modaps.eosdis.nasa.gov/data/download/DL_FIRE_M6_4547.zip
+https://firms2.modaps.eosdis.nasa.gov/data/download/DL_FIRE_V1_4548.zip
+https://firms2.modaps.eosdis.nasa.gov/data/download/DL_FIRE_M6_4549.zip
+https://firms2.modaps.eosdis.nasa.gov/data/download/DL_FIRE_V1_4550.zip
+https://firms2.modaps.eosdis.nasa.gov/data/download/DL_FIRE_M6_4551.zip
+https://firms2.modaps.eosdis.nasa.gov/data/download/DL_FIRE_V1_4552.zip
+https://firms2.modaps.eosdis.nasa.gov/data/download/DL_FIRE_M6_4555.zip
+https://firms2.modaps.eosdis.nasa.gov/data/download/DL_FIRE_V1_4556.zip
+https://firms2.modaps.eosdis.nasa.gov/data/download/DL_FIRE_M6_4557.zip
+

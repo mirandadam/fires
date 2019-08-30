@@ -1,0 +1,1 @@
+cd ../results && python ../scripts/5_generate_graphics.py
